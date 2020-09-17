@@ -1,0 +1,24 @@
+body {
+    background-color: blue;
+    color: white;
+  }
+
+  .center {
+      text-align: center;
+  }
+
+  img {
+    padding:1px;
+    border:1px solid #ebeef3;
+ }
+
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  a {
+    color: white;
+  }
